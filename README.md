@@ -1,5 +1,4 @@
 # sonq
-Link: https://antqiu.github.io/sonq/
 
 *Prototype made in Figma, exported to HTML and CSS with Export Kit*
 
